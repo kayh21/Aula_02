@@ -41,11 +41,12 @@ b = 6
 resultado = a <= b  # Resultado será True
 
 # OPERAÇÕES MATEMÁTICAS: 
-#  * = multiplicação 
-#  + = soma
-#  - = subtração 
-#  / = divisão
- 
+#  (*) = multiplicação (x * y)
+#  (+) = soma (x + y)
+#  (-) = subtração (x - y)
+#  (/ ou %) = divisão (x % y)
+# (**) = exponencial (x ** y)
+# (//) = Floor division (x // y)
 
 # EXEMPLO 01: Utiliza-se sinal de comparação para fazer uma senha 
 # senha =  1234
